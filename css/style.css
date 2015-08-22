@@ -1,6 +1,5 @@
 .demo-layout-transparent {
   background-color: #0091EA;
-  background: url('../img/toolbar.jpg') center / cover;
 }
 .demo-layout-transparent .mdl-layout__header,
 .demo-layout-transparent .mdl-layout__drawer-button {
